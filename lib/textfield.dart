@@ -19,7 +19,7 @@ class _TextfieldState extends State<Textfield> {
             IconButton(
                 onPressed: () {
                   Navigator.pushReplacement(context,
-                      MaterialPageRoute(builder: (context) => Homepage()));
+                      MaterialPageRoute(builder: (context) => Home()));
                 },
                 icon: Icon(Icons.arrow_back)),
             Text(
@@ -27,7 +27,6 @@ class _TextfieldState extends State<Textfield> {
               style: TextStyle(
                 color: Color.fromARGB(255, 16, 32, 72),
                 fontWeight: FontWeight.bold,
-                fontFamily: GoogleFonts.afacad().fontFamily,
               ),
             ),
           ],

@@ -39,7 +39,7 @@ dependencies:
   shared_preferences: ^2.0.15
   google_sign_in: ^6.2.1
   firebase_auth: ^5.3.1
-  google_fonts: ^6.2.1
+  google_fonts: ^4.0.4
 
 dev_dependencies:
   flutter_test:
@@ -69,6 +69,17 @@ flutter:
      - assets/logo.png
      - assets/revisi_logo.png
      - assets/images.jpg
+     - assets/images (4).jpg
+     - assets/penghancuran-pki.jpg
+     - assets/jokowi.jpg
+     - assets/images (5).jpg
+     - assets/createthumb.jpeg
+     - assets/hitler.jpg
+     - assets/prabowo.jpg
+     - assets/komunis.jpg
+     - assets/korupsi.jpg
+     - assets/rasisme.jpg
+     - assets/agama_jawa.jpg
 
   # To add assets to your application, add an assets section, like this:
   # assets:
